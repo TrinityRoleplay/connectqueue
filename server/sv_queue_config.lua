@@ -52,10 +52,10 @@ Config.Language = {
     joining = "\xF0\x9F\x8E\x89Joining...",
     connecting = "\xE2\x8F\xB3Connecting...",
     idrr = "\xE2\x9D\x97[Queue] Error: Couldn't retrieve any of your id's, try restarting.",
-    err = "\xE2\x9D\x97[Queue] There was an error",
+    err = "\xE2\x9D\x97[Queue] There was an error, please try again. If this error persists please open a ticket in our Discord Server. (discord.gg/TrinityRP)",
     pos = "\xF0\x9F\x90\x8CYou are %d/%d in queue \xF0\x9F\x95\x9C%s",
-    connectingerr = "\xE2\x9D\x97[Queue] Error: Error adding you to connecting list",
-    timedout = "\xE2\x9D\x97[Queue] Error: Timed out?",
+    connectingerr = "\xE2\x9D\x97[Queue] Error: Error adding you to connecting list. Please check your internet connection and try again. If this error persists please open a ticket in our Discord Server. (discord.gg/TrinityRP)",
+    timedout = "\xE2\x9D\x97[Queue] Error: Timed out",
     wlonly = "\xE2\x9D\x97[Queue] You must be whitelisted to join this server",
     steam = "\xE2\x9D\x97 [Queue] Error: Steam must be running"
 }
